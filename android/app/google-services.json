@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102716029067",
+    "project_id": "apelsubditharda-staging",
+    "storage_bucket": "apelsubditharda-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102716029067:android:c892a757766670e7fdfc8e",
+        "android_client_info": {
+          "package_name": "com.subditharda.apel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102716029067-n7tgc8o101s88n90kapknllhlb6stv7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHglrd_Ytld2bGLwZvnpTs9JGzzYUozLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102716029067-n7tgc8o101s88n90kapknllhlb6stv7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
